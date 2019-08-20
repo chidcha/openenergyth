@@ -54,4 +54,4 @@ Parameters :
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [Chidchanok Choksuchat](mailto:cchoksuchat@hotmail.com?subject=[GitHub]%20Source%20Thailand%20Open%20Energy%20Data)) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [Chidchanok Choksuchat](mailto:cchoksuchat@hotmail.com?subject=[GitHub]%20Source%20Thailand%20Open%20Energy%20Data) and we’ll help you sort it out.
