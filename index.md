@@ -3,7 +3,7 @@
 One of example [Android App: 	
 Open Energy Data Thailand Technology](https://play.google.com/store/apps/details?id=iniac.ict.scu.psu.energy.statistics.of.thailand) to use and implement an app by using the following services.
 
-Service [1_energy_value](http://interfo-rc.com/energy/energyvalue/1_energy_value.php)
+### Service [1_energy_value](http://interfo-rc.com/energy/energyvalue/1_energy_value.php)
 
 URL : http://interfo-rc.com/energy/energyvalue/1_energy_value.php
 
@@ -25,7 +25,7 @@ Parameters :
 ตัวอย่าง : '1_energy_value.php?min=2550&max=2555&type=2&all'
 
 
-Service [1_energy_value_detail](http://interfo-rc.com/energy/energyvalue/1_energy_value_detail.php)
+### Service [1_energy_value_detail](http://interfo-rc.com/energy/energyvalue/1_energy_value_detail.php)
 
 URL : http://interfo-rc.com/energy/energyvalue/1_energy_value_detail.php
 
