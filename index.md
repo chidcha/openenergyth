@@ -25,7 +25,7 @@ Parameters :
 ตัวอย่าง : '1_energy_value.php?min=2550&max=2555&type=2&all'
 
 
-Service : [1_energy_value_detail] (http://interfo-rc.com/energy/energyvalue/1_energy_value_detail.php)
+Service [1_energy_value_detail](http://interfo-rc.com/energy/energyvalue/1_energy_value_detail.php)
 
 URL : http://interfo-rc.com/energy/energyvalue/1_energy_value_detail.php
 
