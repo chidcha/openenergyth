@@ -51,6 +51,8 @@ Parameters :
 
 ตัวอย่าง : '1_energy_value_detail.php?type=1&subtype=Electricity&min=2549&max=2559'
 
+### Browse more Energy ontology list
+[Link to another page](./ontologyList.html).
 
 ### Support or Contact
 
